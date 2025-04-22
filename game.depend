@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745286323 source:d:\project\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<bits/stdc++.h>
+
